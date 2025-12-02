@@ -1,0 +1,4 @@
+Flask
+googlemaps
+pandas
+gunicorn
